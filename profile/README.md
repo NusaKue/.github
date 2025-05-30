@@ -2,6 +2,11 @@
   <img alt="Banner NusaKue" src="../assets/banner.png" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Capstone-CodingCamp2025-blue" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow" />
+</p>
+
 # NusaKue Organization
 
 Selamat datang di organisasi **NusaKue**, sebuah komunitas yang berdedikasi melestarikan kue tradisional Indonesia melalui inovasi teknologi AI dan edukasi budaya digital.
@@ -42,11 +47,13 @@ NusaKue hadir sebagai solusi modern untuk melestarikan kue tradisional Indonesia
 
 ## Timeline
 
-| Tim              | Minggu 1           | Minggu 2               | Minggu 3            | Minggu 4            | Minggu 5            |
-|------------------|--------------------|------------------------|---------------------|---------------------|---------------------|
-| Machine Learning | Riset & Koleksi Data| Pra-pemrosesan Dataset | Pelatihan Model     | Evaluasi Model      | Deployment Model    |
-| Web Development  | Prototyping UI     | Pembangunan Frontend & Backend | Integrasi API & Model | Penambahan Fitur UMKM | Pengujian & Launch |
-| UMKM & Konten    | Survei UMKM        | Kurasi Kue Tradisional  | Input Data & Validasi| Optimasi Konten      | Finalisasi & Publikasi|
+| Minggu | Machine Learning             | Frontend & Backend                                                                      |
+|--------|------------------------------|------------------------------------------------------------------------------------------|
+| 1      | Pengumpulan Data             | Desain UI, Setup Proyek, Struktur Direktori Awal                                        |
+| 2      | Preprocessing Data           | Slicing UI ke dalam Komponen React, Setup Routing, Layout Awal, API Dummy               |
+| 3      | Pelatihan & Validasi Model   | Integrasi Model ke Backend, Penghubungan API Prediksi ke Frontend                       |
+| 4      | Pengujian & Evaluasi         | Finalisasi Tampilan, Pengujian End-to-End, Deployment                                   |
+
 
 ---
 
