@@ -41,7 +41,11 @@ NusaKue hadir sebagai solusi modern untuk melestarikan kue tradisional Indonesia
 
 ## Project Mentors
 
-> Akan diperbarui nanti oleh panitia Coding Camp 2025.
+| Nama                     | Keahlian                        | LinkedIn                                                                 |
+|--------------------------|----------------------------------|--------------------------------------------------------------------------|
+| Yogic Wahyu Rhamadianto  | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/yogicwr/)          |
+| Cindy Sri Arianti        | Business / Commerce / Ideation  | [LinkedIn](https://www.linkedin.com/in/cindysrnt/)                |
+
 
 ---
 
