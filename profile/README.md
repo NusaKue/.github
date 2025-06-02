@@ -33,9 +33,9 @@ NusaKue hadir sebagai solusi modern untuk melestarikan kue tradisional Indonesia
 | Ady Subagya Junior     | MC006D5Y1412   | Universitas Brawijaya           | Machine Learning Engineer  | [LinkedIn](https://www.linkedin.com/in/adysbgy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Bagus Dzakiy Rahman Saputra | MC378D5Y0356 | Universitas Islam Balitar      | Machine Learning Engineer  | [LinkedIn](https://www.linkedin.com/in/bagusdzakiy/)                                                     |
 | Fiyanda Ma'muri        | MC288D5X0264   | Universitas Pamulang            | Machine Learning Engineer  | [LinkedIn](https://www.linkedin.com/in/fiyandamamuri/)                                                  |
-| Muhammad Irfan         | FC189D5Y0792   | Universitas Bengkulu            | Frontend/Backend Developer | [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-0ba9b326b/)                                       |
-| Revaldo Relinsyah      | FC189D5Y0421   | Universitas Bengkulu            | Frontend/Backend Developer | [LinkedIn](https://www.linkedin.com/in/revaldo-relinsyah-7267012a1/)                                    |
-| Sylvia Steffi          | FC827D5X0041   | Universitas Widya Dharma Pontianak | Frontend/Backend Developer | [LinkedIn](https://www.linkedin.com/in/sylvia-steffi-518553320/)                                        |
+| Muhammad Irfan         | FC189D5Y0792   | Universitas Bengkulu            | Frontend Developer | [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-0ba9b326b/)                                       |
+| Revaldo Relinsyah      | FC189D5Y0421   | Universitas Bengkulu            | Backend Developer | [LinkedIn](https://www.linkedin.com/in/revaldo-relinsyah-7267012a1/)                                    |
+| Sylvia Steffi          | FC827D5X0041   | Universitas Widya Dharma Pontianak | Frontend Developer | [LinkedIn](https://www.linkedin.com/in/sylvia-steffi-518553320/)                                        |
 
 ---
 
