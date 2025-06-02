@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Banner NusaKue" src="../assets/banner.png" width="600" />
+  <img alt="Banner NusaKue" src="../assets/banner.png" width="100%" />
 </p>
 
 <p align="center">
@@ -83,3 +83,4 @@ Proyek ini dikembangkan untuk keperluan edukasi dalam rangka menyelesaikan progr
 
 ---
 
+<p align="center"><strong>🌐 Explore budaya — satu kue dalam satu klik! 🇮🇩</strong></p>
